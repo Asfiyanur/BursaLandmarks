@@ -4,11 +4,13 @@ const Card = (data) => {
   return (
     <div className="cards">
       <div className="title">
-        <h1>{data.title}</h1>
+        <h1>{title}</h1>
       </div>
 
-      <img src={data.image} alt="" />
-      <div className="card-over">{desc}</div>
+      <img src={image} alt="" />
+      <div className="card-over">
+        <p>{desc}</p>
+      </div>
     </div>
   );
 };
