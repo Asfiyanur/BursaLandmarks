@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BursaLandmarks/static/css/main.fab37a1c.css",
+    "main.js": "/BursaLandmarks/static/js/main.1df8212b.js",
+    "static/js/787.ddc3445c.chunk.js": "/BursaLandmarks/static/js/787.ddc3445c.chunk.js",
+    "index.html": "/BursaLandmarks/index.html",
+    "main.fab37a1c.css.map": "/BursaLandmarks/static/css/main.fab37a1c.css.map",
+    "main.1df8212b.js.map": "/BursaLandmarks/static/js/main.1df8212b.js.map",
+    "787.ddc3445c.chunk.js.map": "/BursaLandmarks/static/js/787.ddc3445c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fab37a1c.css",
+    "static/js/main.1df8212b.js"
+  ]
+}
