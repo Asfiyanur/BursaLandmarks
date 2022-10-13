@@ -8,7 +8,6 @@
 
 ## Table of contents
 
-  - [Project Skeleton ](#project-skeleton)
   - [Screenshot](#screenshot) 
   - [Links](#links)
   - [Built with](#built-with)
